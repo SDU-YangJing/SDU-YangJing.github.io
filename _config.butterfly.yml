@@ -222,7 +222,7 @@ fireworks:
 
 inject:
   head:
-    - '<div class="aplayer no-destroy" data-id="2112775941" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-lrctype="1" data-preload="none" data-autoplay="false" muted></div>'
+    - '<div class="aplayer no-destroy" data-id="10163525391" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-lrctype="1" data-preload="none" data-autoplay="false" muted></div>'
   bottom:
 
 CDN:
