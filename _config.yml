@@ -62,7 +62,7 @@ deploy:
   branch: main
   message: "Deploy from source: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
-# Let Butterfly inject the APlayer assets once for the persistent player.
+# Butterfly injects APlayer; the generated local playlist does not use Meting.
 aplayer:
-  meting: true
+  meting: false
   asset_inject: false
