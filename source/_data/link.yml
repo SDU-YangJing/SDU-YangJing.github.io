@@ -1,0 +1,7 @@
+- class_name: 友情链接
+  class_desc:
+  link_list:
+    - name: csdn
+      link: https://blog.csdn.net/qq_66878808?spm=1000.2115.3001.5343
+      avatar: /img/touxiang.jpg
+      descr: 这里记录我的学习博客
